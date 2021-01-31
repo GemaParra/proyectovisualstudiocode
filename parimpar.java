@@ -26,7 +26,6 @@ public class parimpar {
             //fin del programa
             System.out.print("\nFin del programa");
             System.out.print("\nHasta la proxima :)");
-            System.out.print("\nAñado una nueva línea para hacer la comparación");
             
     }
     
